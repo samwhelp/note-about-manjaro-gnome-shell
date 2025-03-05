@@ -27,7 +27,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Manjaro Gnome Shell Config](https://github.com/samwhelp/manjaro-gnome-shell-adjustment/tree/main/prototype/main) |
+| [Manjaro Gnome Shell Config](https://github.com/samwhelp/manjaro-gnome-shell-adjustment/tree/main/prototype/main/gnome-shell-config) |
 | [Tool Config](https://github.com/samwhelp/manjaro-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
