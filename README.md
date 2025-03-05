@@ -16,6 +16,7 @@
 * [微調腳本](#微調腳本)
 * [概覽](#概覽)
 * [如何](#如何)
+* [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
 * [相關筆記](#相關筆記)
 
@@ -50,6 +51,15 @@
 | [停用按鍵綁定「Super_L」開啟「Overlay」](https://samwhelp.github.io/note-about-manjaro-gnome-shell/read/howto/disable-keybind-open-overlay.html) |
 | [設定「主要」的「按鍵綁定」](https://samwhelp.github.io/note-about-manjaro-gnome-shell/read/howto/config-keybind/config-keybind-main.html) |
 | [設定「自訂」的「按鍵綁定」](https://samwhelp.github.io/note-about-manjaro-gnome-shell/read/howto/config-keybind/config-keybind-custom.html) |
+
+
+
+
+## 輸入法
+
+| 中文輸入法 | 微調腳本 |
+| ---------- | -------- |
+| [新酷音輸入法](https://samwhelp.github.io/note-about-manjaro/read/subject/input-method/fcitx5/module/fcitx5-chewing.html) | [微調腳本](https://github.com/samwhelp/manjaro-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-chewing) |
 
 
 
