@@ -80,3 +80,10 @@
 | [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+
+
+
+
+## Samwhelp
+
+* [個人筆記](https://samwhelp.github.io/book/)
