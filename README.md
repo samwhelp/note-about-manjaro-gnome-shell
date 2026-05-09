@@ -94,6 +94,8 @@
 | [Ubuntu Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-ubuntu-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-gnome-shell) |
 | [Fedora Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-fedora-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-fedora-gnome-shell) |
 | [Archlinux Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-archlinux-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-gnome-shell) |
+| [Voidlinux Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-voidlinux-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux-gnome-shell) |
+| [Solus Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-solus-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-solus-gnome-shell) |
 | [Garuda Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-garuda-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-garuda-gnome-shell) |
 
 
